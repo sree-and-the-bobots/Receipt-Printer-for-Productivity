@@ -13,9 +13,11 @@ Type 'pip install pywin32' in your console to get the  python dependencies
 After installing the code and the dependencies type 
 'python receipt_printer.py'
 
+Into your console, then open up Notepad ++ and have fun :)
+
 I have some Aperture Science ASCII art in the code so that it prints it on each receipt. You can delete it or change it to whatever acii art you want, especially since mine isn't the greatest.
 
-Into your console, then open up Notepad ++ and have fun :)
+
 
 
    
