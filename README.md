@@ -11,7 +11,7 @@ The concept of the project is a reciept printer that prints out your daily tasks
 Type 'pip install pywin32' in your console to get the  python dependencies
 
 After installing the code and the dependencies type 
-'python spike_print_server.py'
+'python receipt_printer.py'
 
 I have some Aperture Science ASCII art in the code so that it prints it on each receipt. You can delete it or change it to whatever acii art you want, especially since mine isn't the greatest.
 
